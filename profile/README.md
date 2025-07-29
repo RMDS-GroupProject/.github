@@ -13,7 +13,7 @@
 ## 🔬 Current Projects
 
 ### 🚀 **Spaceship Titanic**
-**Repository:** `spaceship_titanic`
+**Repository:** [`spaceship_titanic`](https://github.com/RMDS-GroupProject/spaceship_titanic)
 
 Advanced machine learning classification project featuring:
 - **Hyperparameter Optimization** with Optuna
@@ -96,6 +96,6 @@ This organization supports coursework and research in:
 
 **🔗 Explore our repositories and contribute to open science!**
 
-**Current Repository:** `spaceship_titanic` - Advanced ML Classification Project
+**Current Repository:** [`spaceship_titanic`](https://github.com/RMDS-GroupProject/spaceship_titanic) - Advanced ML Classification Project
 
 </div>
