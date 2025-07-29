@@ -12,7 +12,9 @@
 
 ## 🔬 Current Projects
 
-### 🚀 [Spaceship Titanic](https://github.com/RMDS-GroupProject/spaceship_titanic)
+### 🚀 **Spaceship Titanic**
+**Repository:** `spaceship_titanic`
+
 Advanced machine learning classification project featuring:
 - **Hyperparameter Optimization** with Optuna
 - **Ensemble Methods** (Voting & Stacking Classifiers)
@@ -27,16 +29,40 @@ Advanced machine learning classification project featuring:
 - 🔬 **Research Methodologies & Best Practices**
 - 🏆 **Kaggle Competitions & Real-world Applications**
 
+## 👥 Team Members
+
+<div align="center">
+
+| Name | Student ID | Role |
+|------|------------|------|
+| **MOHIT AGARWAL** | 22031257 | ML Engineering & Optimization |
+| **JEROME PAULRAJ** | 22074395 | Data Analysis & Preprocessing |
+| **OMKAR SHASHIKANT SAWANT** | 22080770 | Statistical Modeling |
+| **SOMY NELLIKKUNNEL THOMAS** | 22079522 | Feature Engineering |
+| **CHANDRA SHEKAR LOSIRLU** | 22081216 | Ensemble Methods |
+| **HARI BAHADUR GHARTI MAGAR** | 22075765 | Data Visualization |
+| **YOGESH PANDIT** | 22095146 | Model Evaluation |
+
+</div>
+
 ## 🛠️ Technologies We Use
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+
+**Additional Libraries:**
+[![Optuna](https://img.shields.io/badge/Optuna-4285F4?style=flat&logo=google&logoColor=white)](https://optuna.org/)
+[![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat&logo=catboost&logoColor=black)](https://catboost.ai/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io/)
+[![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat&logo=microsoft&logoColor=white)](https://lightgbm.readthedocs.io/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 
 </div>
 
@@ -70,6 +96,6 @@ This organization supports coursework and research in:
 
 **🔗 Explore our repositories and contribute to open science!**
 
-[![Repositories](https://img.shields.io/badge/View-All%20Repositories-blue?style=for-the-badge)](https://github.com/orgs/RMDS-GroupProject/repositories)
+**Current Repository:** `spaceship_titanic` - Advanced ML Classification Project
 
 </div>
