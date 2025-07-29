@@ -33,7 +33,7 @@ Advanced machine learning classification project featuring:
 
 <div align="center">
 
-| Name | Student ID |
+| Members | Student ID |
 |------|------------|
 | **MOHIT AGARWAL** | 22031257 | 
 | **JEROME PAULRAJ** | 22074395 | 
