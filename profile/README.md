@@ -33,15 +33,15 @@ Advanced machine learning classification project featuring:
 
 <div align="center">
 
-| Name | Student ID | Role |
-|------|------------|------|
-| **MOHIT AGARWAL** | 22031257 | ML Engineering & Optimization |
-| **JEROME PAULRAJ** | 22074395 | Data Analysis & Preprocessing |
-| **OMKAR SHASHIKANT SAWANT** | 22080770 | Statistical Modeling |
-| **SOMY NELLIKKUNNEL THOMAS** | 22079522 | Feature Engineering |
-| **CHANDRA SHEKAR LOSIRLU** | 22081216 | Ensemble Methods |
-| **HARI BAHADUR GHARTI MAGAR** | 22075765 | Data Visualization |
-| **YOGESH PANDIT** | 22095146 | Model Evaluation |
+| Name | Student ID |
+|------|------------|
+| **MOHIT AGARWAL** | 22031257 | 
+| **JEROME PAULRAJ** | 22074395 | 
+| **OMKAR SHASHIKANT SAWANT** | 22080770 |
+| **SOMY NELLIKKUNNEL THOMAS** | 22079522 |
+| **CHANDRA SHEKAR LOSIRLU** | 22081216 | 
+| **HARI BAHADUR GHARTI MAGAR** | 22075765 | 
+| **YOGESH PANDIT** | 22095146 | 
 
 </div>
 
